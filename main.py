@@ -16,3 +16,4 @@ a = int(input("请输入一组数字："))
 a = a + 100
 print("输入数字加上100 = %d" % a)
 test1
+test MAC
